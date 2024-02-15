@@ -4,7 +4,7 @@
 The purpose of this project is to examine the operations carried out in the Call Center, in order to identify patterns in customer behavior and thus be able to offer a better service, increasing operational effectiveness.
 The focus is directed towards the conceptualization, construction and presentation of a control panel that enables the measurement of the levels of excellence in service, effectiveness and performance of the Call Center.
 
-Key Components : 
+<h1>Key Components :</h1> 
 
 Data Preparation: Tackled the raw data intricacies head-on, ensuring it was structured, relevant, and ready for analysis.
 
@@ -46,6 +46,6 @@ The project contain :
 
 15.Month
 
-Dashboard link :
+<h1>Dashboard link :</h1>
 
 https://app.powerbi.com/groups/me/reports/adcb9bdb-4a26-42be-b123-7f9e4a0525fe/ReportSection?experience=power-bi
