@@ -35,3 +35,6 @@ The Project Contain :
 
 <h1>Dashboard Link</h1>
 https://app.powerbi.com/groups/me/reports/ad5e2437-bbce-4d70-b7f9-1df367477373/ReportSection632b86d70aac081ce11e?experience=power-bi
+
+
+![DS Salary Dashboard](https://github.com/Omarmohammed223/Power-bi-projects/assets/158233212/3c3e1ced-6a25-4123-b31e-c21883fba9bd)
