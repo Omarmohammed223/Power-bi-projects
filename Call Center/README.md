@@ -49,3 +49,6 @@ The project contain :
 <h1>Dashboard link :</h1>
 
 https://app.powerbi.com/groups/me/reports/adcb9bdb-4a26-42be-b123-7f9e4a0525fe/ReportSection?experience=power-bi
+
+
+![Call Center](https://github.com/Omarmohammed223/Power-bi-projects/assets/158233212/b52e3857-de38-4010-8381-2655207833f5)
