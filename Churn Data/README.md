@@ -44,3 +44,6 @@ The Project Contain :
 
 <h1>Dashboard Link</h1>
 https://app.powerbi.com/groups/me/reports/84a88732-fe8f-4eb6-9bfa-f7cf16beec08/ReportSection5d7b6d94043680100aba?experience=power-bi
+
+
+![Churn Data](https://github.com/Omarmohammed223/Power-bi-projects/assets/158233212/7e9c4542-a5a3-40de-8327-81739f9851cc)
