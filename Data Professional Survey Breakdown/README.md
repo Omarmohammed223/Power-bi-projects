@@ -34,5 +34,5 @@ The Project Contain :
 https://app.powerbi.com/groups/me/reports/8d7d08a9-296c-40a6-a816-fce8a80d5651/ReportSection?experience=power-bi
 
 
-![Call Center](https://github.com/Omarmohammed223/Power-bi-projects/assets/158233212/b52e3857-de38-4010-8381-2655207833f5)
+![Data Professional Survey Breakdown](https://github.com/Omarmohammed223/Power-bi-projects/assets/158233212/990b78a0-8cc6-49e7-9d74-f2874435795c)
 
