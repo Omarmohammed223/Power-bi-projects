@@ -37,4 +37,4 @@ The Project Contain :
 https://app.powerbi.com/groups/me/reports/ad5e2437-bbce-4d70-b7f9-1df367477373/ReportSection632b86d70aac081ce11e?experience=power-bi
 
 
-![DS Salary Dashboard](https://github.com/Omarmohammed223/Power-bi-projects/assets/158233212/3c3e1ced-6a25-4123-b31e-c21883fba9bd)
+![ds salary (2)](https://github.com/Omarmohammed223/Excel-projects/assets/158233212/2cd8e912-d20c-4af8-b2d3-7c638d232f5e)
