@@ -46,4 +46,8 @@ The Project Contain :
 https://app.powerbi.com/groups/me/reports/84a88732-fe8f-4eb6-9bfa-f7cf16beec08/ReportSection5d7b6d94043680100aba?experience=power-bi
 
 
-![Churn Data](https://github.com/Omarmohammed223/Power-bi-projects/assets/158233212/7e9c4542-a5a3-40de-8327-81739f9851cc)
+[churn 1](https://github.com/Omarmohammed223/Excel-projects/assets/158233212/58994a8f-26b5-4342-a5a4-371aff5252f3)
+
+![churn 2](https://github.com/Omarmohammed223/Excel-projects/assets/158233212/dcfd6ead-7912-4a1a-8b5e-ac0c2655b058)
+
+![churn 3](https://github.com/Omarmohammed223/Excel-projects/assets/158233212/3525a261-937b-495c-be53-110550af4feb)
