@@ -46,7 +46,7 @@ The Project Contain :
 https://app.powerbi.com/groups/me/reports/84a88732-fe8f-4eb6-9bfa-f7cf16beec08/ReportSection5d7b6d94043680100aba?experience=power-bi
 
 
-[churn 1](https://github.com/Omarmohammed223/Excel-projects/assets/158233212/58994a8f-26b5-4342-a5a4-371aff5252f3)
+![churn 1](https://github.com/Omarmohammed223/Excel-projects/assets/158233212/87099761-80f1-4828-882c-cb77045a6178)
 
 ![churn 2](https://github.com/Omarmohammed223/Excel-projects/assets/158233212/dcfd6ead-7912-4a1a-8b5e-ac0c2655b058)
 
