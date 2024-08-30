@@ -41,4 +41,4 @@ Visualization: Transformed data into engaging visuals that tell a compelling sto
 <h1>Dashboard Link</h1>
 https://app.powerbi.com/groups/me/reports/8c704413-41f4-431e-a698-4d1641a67131/ReportSection8b59aaf02792017d7258?experience=power-bi
 
-https://github.com/Omarmohammed223/Power-bi-projects/issues/1#issue-2497999148
+![Annotation 2024-08-30 220012](https://github.com/user-attachments/assets/0d1cc704-9dde-4ab7-9bc8-c70c62dd1f10)
